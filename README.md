@@ -1,8 +1,5 @@
 # CLassification_logistics_regression
 <br>
-Author : Kanta Chaudhary
-<br>
-
 Iris flower Classification using logistic reression
 <br>
 # Project Overview
@@ -103,4 +100,6 @@ o Build a simple web interface for real-time predications.<br>
 o Test the model on additional datasets.<br>
 <br>
 #Conclusion<br>
-The project demonstrates a complete implementation of a classification problem using Logistic Regression. It covers the essential stages of a machine learning pipeline, form preprocessing to model evaluation, while also comparing the results with Random Forest and Support Vector Machine classifiers to better understand model performance.
+The project demonstrates a complete implementation of a classification problem using Logistic Regression. It covers the essential stages of a machine learning pipeline, form preprocessing to model evaluation, while also comparing the results with Random Forest and Support Vector Machine classifiers to better understand model performance.<br>
+# Author : Kanta Chaudhary
+
