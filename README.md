@@ -2,8 +2,7 @@
 <br>
 Iris flower Classification using logistic reression
 <br>
-# Project Overview
-<br>
+# Project Overview<br>
 This project demonstrates a machine learning classification task using the Iris Flower dataset. The objective is to classify iris flowers into one of three species Setosa, Versicolor or Virginica based on four flower measurements : sepal length, sepal width, petal length and petal width.
 <br>
 The project follows a complete machine learning workflow, including data loading, preprocessing, feature scaling, model training, prediction, evalution and comparison with other classification algorithms.
