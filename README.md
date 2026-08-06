@@ -1,15 +1,15 @@
-# CLassification_logistics_regression
+#CLassification_logistics_regression
 <br>
 Iris flower Classification using logistic reression
 <br>
-# Project Overview
+#Project Overview
 <br>
 This project demonstrates a machine learning classification task using the Iris Flower dataset. The objective is to classify iris flowers into one of three species Setosa, Versicolor or Virginica based on four flower measurements : sepal length, sepal width, petal length and petal width.
 <br>
 The project follows a complete machine learning workflow, including data loading, preprocessing, feature scaling, model training, prediction, evalution and comparison with other classification algorithms.
 <br>
 
-# objective
+#objective
 o Load and explore this iris dataset.<br>
 o Perform basic data preprocessing.<br>
 o Split the dataset into training and testing sets.<br>
@@ -65,7 +65,7 @@ o Recall : Measures how many actual instances are correctly identified.<br>
 o Confusion Matrix : Display the number of correct and incorrect predictions for each class.<br>
 o Classification Report : Provides Precision, Recall, F1-Score, and Support for each class.<br>
 <br>
-# Models Compared <br>
+#Models Compared <br>
 Model                          Purpose <br>
 Logistic Regression             Primary classification model<br>
 Random Forest                   Performance comparison<br>
@@ -81,7 +81,7 @@ Vlassification_With_Logistics/<br>
 Results <br>
 The Logistic Regression model successfully classification iris flowers with high accuracy. The project also compared its performance against Random Forest and SVM classifier, demonstrating how different machine learning algorithms perform on the same dataset.<br>
 
-# Learning Outcomes <br>
+#Learning Outcomes <br>
 Through this project, I learned : <br>
 o Data Loading and exploration using Pandas.<br>
 o Data preprocessing technoques.<br>
@@ -92,7 +92,7 @@ o Evaluating Classification models using multiple metrics.<br>
 o Comparing Different machine learning algorithms.<br>
 o Applying a complete machine learning workflow in python.<br>
 <br>
-# Future Improvements <br>
+#Future Improvements <br>
 o Add data visualization using Seaborn and Matplotlib.<br>
 o Perform hyperparameter tuning.<br>
 o Save the Trained model using Joblib or Pickle.<br>
@@ -101,5 +101,5 @@ o Test the model on additional datasets.<br>
 <br>
 #Conclusion<br>
 The project demonstrates a complete implementation of a classification problem using Logistic Regression. It covers the essential stages of a machine learning pipeline, form preprocessing to model evaluation, while also comparing the results with Random Forest and Support Vector Machine classifiers to better understand model performance.<br>
-# Author : Kanta Chaudhary
-
+# Author : Kanta Chaudhary<br>
+Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.
