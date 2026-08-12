@@ -2,6 +2,7 @@
 <br>
 Iris flower Classification using logistic reression
 <br>
+<br>
 # Project Overview<br>
 This project demonstrates a machine learning classification task using the Iris Flower dataset. The objective is to classify iris flowers into one of three species Setosa, Versicolor or Virginica based on four flower measurements : sepal length, sepal width, petal length and petal width.
 <br>
@@ -100,5 +101,6 @@ o Test the model on additional datasets.<br>
 <br>
 #Conclusion<br>
 The project demonstrates a complete implementation of a classification problem using Logistic Regression. It covers the essential stages of a machine learning pipeline, form preprocessing to model evaluation, while also comparing the results with Random Forest and Support Vector Machine classifiers to better understand model performance.<br>
+<br>
 # Author : Kanta Chaudhary<br>
 Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.
