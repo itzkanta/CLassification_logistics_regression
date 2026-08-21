@@ -103,4 +103,6 @@ o Test the model on additional datasets.<br>
 The project demonstrates a complete implementation of a classification problem using Logistic Regression. It covers the essential stages of a machine learning pipeline, form preprocessing to model evaluation, while also comparing the results with Random Forest and Support Vector Machine classifiers to better understand model performance.<br>
 <br>
 # Author : Kanta Chaudhary<br>
-Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.
+Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.<br>
+Thank you
+
