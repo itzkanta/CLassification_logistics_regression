@@ -72,7 +72,7 @@ Random Forest                   Performance comparison<br>
 Support Vector Machine          Performance comparison<br>
 <br>
 # Project Structure <br>
-Vlassification_With_Logistics/<br>
+Vlassification_With_Logistics<br>
 |<br>
 |- iris.csv <br>
 |- main.py <br>
@@ -104,5 +104,5 @@ The project demonstrates a complete implementation of a classification problem u
 <br>
 # Author : Kanta Chaudhary<br>
 Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.<br>
-Thank you
+Thank you !
 
