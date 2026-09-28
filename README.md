@@ -104,5 +104,6 @@ The project demonstrates a complete implementation of a classification problem u
 <br>
 # Author : Kanta Chaudhary<br>
 Aspiring Data Scientist | Python Enthusiast | Learning Data Science through hands-on projects and sharing my journey on GitHub.<br>
+If this is not understandabl, please contact me on my linkedIn. 
 Thank you !
 
